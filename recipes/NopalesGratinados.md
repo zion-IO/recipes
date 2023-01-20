@@ -1,4 +1,8 @@
 # Nopales gratinados
+
+## Maquinaria
+* Un anafre
+
 ## Ingredientes
 * 2 pencas de nopal
 * 60gr de queso oaxaca
@@ -6,6 +10,8 @@
 * 1 taza de champiñones
 * 1/4 de cebolla picada
 * 1 diente de ajo
+* Carbon
+* Madera y/o periodico
 
 ## Preparacion
 
