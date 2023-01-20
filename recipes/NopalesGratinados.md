@@ -10,12 +10,9 @@
 * 1 taza de champiñones
 * 1/4 de cebolla picada
 * 1 diente de ajo
-<<<<<<< HEAD
 * Aceite de oliva
-=======
 * Carbon
 * Madera y/o periodico
->>>>>>> 414e4f9c5959050cecc9fcd132f516a2176ecfbd
 
 ## Preparacion
 
