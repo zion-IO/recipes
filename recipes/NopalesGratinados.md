@@ -22,6 +22,8 @@
 * Madera y/o periodico
 * 1 jitomate picado
 * 1 chile serrano picado
+* Chile de arbol desvenado
+
 
 ## Preparación
 
