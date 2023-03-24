@@ -104,3 +104,9 @@ git push origin feature/nombre-de-la-receta
 
 1. Identificar las posibles soluciones para resolver los conflictos
 2. Documentar el proceso de como resolver los conflictos en el README.md
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
